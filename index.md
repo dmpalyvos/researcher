@@ -27,4 +27,4 @@ Hi! My name is Dimitris and I am a Ph.D. candidate at [Chalmers](www.chalmers.se
 ## Contact
 
 * Email: lastname@chalmers.se (lastname is palyvos :-))
-* [LinkedIn](www.linkedin.com/in/dpalyvosg)
+* [LinkedIn](http://www.linkedin.com/in/dpalyvosg)
