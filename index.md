@@ -20,7 +20,8 @@ Hi! My name is Dimitris and I am a Ph.D. candidate at [Chalmers](www.chalmers.se
 
 ## Publications
 
-
+1. Dimitris Palyvos-Giannas, Bastian Havers, Marina Papatriantafilou, and Vincenzo Gulisano. **Ananke: A Streaming Framework for Live Forward Provenance.** PVLDB, 14(3): 391 - 403, 2021. doi:10.14778/3430915.3430928
+1. Vincenzo Gulisano, Dimitris Palyvos-Giannas, Bastian Havers, and Marina Papatriantafilou. 2020. **The role of event-time order in data streaming analysis.** In Proceedings of the 14th ACM International Conference on Distributed and Event-based Systems (DEBS '20). Association for Computing Machinery, New York, NY, USA, 214–217. DOI:https://doi.org/10.1145/3401025.3404088
 1. L. Bortolussi, V. Gulisano, E. Medvet, and D. Palyvos-Giannas, **Automatic translation of spatio-temporal logics to streaming-based monitoring applications for IoT-Equipped autonomous agents**, in Proceedings of the 6th International Workshop on Middleware and Applications for the Internet of Things, New York, NY, USA, 2019, pp. 7–12. DOI: https://doi.org/10.1145/3366610.3368097
 1. D. Palyvos-Giannas, V. Gulisano, and M. Papatriantafilou, **Demo Abstract: Haren: A Middleware for Ad-Hoc Thread Scheduling Policies in Data Streaming**, in Middleware ’19: International Middleware Conference Demos and Posters, Davis, CA, USA, 2019. DOI: https://doi.org/10.1145/3366627.3368108
 1. D. Palyvos-Giannas, V. Gulisano, and M. Papatriantafilou, **GeneaLog: Fine-grained data streaming provenance in cyber-physical systems**, Parallel Computing, vol. 89, p. 102552, Nov. 2019. DOI: https://doi.org/10.1016/j.parco.2019.102552 [PDF  (valid until 12/19)](https://authors.elsevier.com/a/1ZqNmcA5k-XCz)
